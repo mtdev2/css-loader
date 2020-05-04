@@ -54,7 +54,7 @@
     "postcss-modules-scope": "^2.2.0",
     "postcss-modules-values": "^3.0.0",
     "postcss-value-parser": "^4.0.3",
-    "schema-utils": "^2.6.5",
+    "schema-utils": "^2.6.6",
     "semver": "^6.3.0"
   },
   "devDependencies": {
